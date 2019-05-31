@@ -1,0 +1,20 @@
+.Board {
+    background-color: orange;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+.Board .winner-status {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Board .reset-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
